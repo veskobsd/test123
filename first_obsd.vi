@@ -1,0 +1,5 @@
+# first git project form aobsd74
+# try a git push command
+
+git add .
+git commit -m'first obsd74 commit'
